@@ -1,3 +1,9 @@
+***FOUNDATIONS OF QUANTUM INFORMATION***
+
+-----
+-----
+-----
+
 **Step 1: Visualization and Intuition (Videos)**
 
 Before diving into the math, let's see what a Qubit looks like with animations.
